@@ -1,0 +1,38 @@
+#red {
+    background-image: url(../img/red.jpg);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#yellow {
+    background-image: url(../img/yellow.jpg);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#green {
+    background-image: url(../img/green.jpg);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+
+.red {
+    background-color: red;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.yellow {
+    background-color: yellow;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.green {
+    background-color: green;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
